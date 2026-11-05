@@ -1,0 +1,6 @@
+@NgoTheThuan_2231200061_Lab3_HostAddress = http://localhost:5153
+
+GET {{NgoTheThuan_2231200061_Lab3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

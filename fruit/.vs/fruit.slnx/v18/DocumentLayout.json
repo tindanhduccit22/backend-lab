@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\fruit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\repositories\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\repositories\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\repositories\\ifruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\repositories\\ifruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|d:\\backend\\fruit\\fruit\\fruit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B00DE86A-3804-4C21-AFE7-094BAFDD8F92}|fruit\\fruit.csproj|solutionrelative:fruit\\fruit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "fruit\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "fruit\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:01:43.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "fruit\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "fruit\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:01:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "fruit\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "fruit\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:00:59.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Models\\User.cs",
+              "RelativeDocumentMoniker": "fruit\\Models\\User.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Models\\User.cs",
+              "RelativeToolTip": "fruit\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:19:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "fruit\\Controllers\\FruitsController.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "fruit\\Controllers\\FruitsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:40:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FruitRepository.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Repositories\\FruitRepository.cs",
+              "RelativeDocumentMoniker": "fruit\\Repositories\\FruitRepository.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Repositories\\FruitRepository.cs",
+              "RelativeToolTip": "fruit\\Repositories\\FruitRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:36:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFruitRepository.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Repositories\\IFruitRepository.cs",
+              "RelativeDocumentMoniker": "fruit\\Repositories\\IFruitRepository.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Repositories\\IFruitRepository.cs",
+              "RelativeToolTip": "fruit\\Repositories\\IFruitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:35:03.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "fruit\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Models\\OrderItem.cs",
+              "RelativeToolTip": "fruit\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:19:26.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "fruit\\Models\\Order.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Models\\Order.cs",
+              "RelativeToolTip": "fruit\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:19:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "fruit\\Models\\Fruit.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Models\\Fruit.cs",
+              "RelativeToolTip": "fruit\\Models\\Fruit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:19:19.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\appsettings.json",
+              "RelativeDocumentMoniker": "fruit\\appsettings.json",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\appsettings.json",
+              "RelativeToolTip": "fruit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T17:18:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Program.cs",
+              "RelativeDocumentMoniker": "fruit\\Program.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Program.cs",
+              "RelativeToolTip": "fruit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:30:12.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "fruit\\Models\\Category.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Models\\Category.cs",
+              "RelativeToolTip": "fruit\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:19:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "fruit\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "fruit\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:17:56.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fruit",
+              "DocumentMoniker": "D:\\backend\\fruit\\fruit\\fruit.csproj",
+              "RelativeDocumentMoniker": "fruit\\fruit.csproj",
+              "ToolTip": "D:\\backend\\fruit\\fruit\\fruit.csproj",
+              "RelativeToolTip": "fruit\\fruit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-17T17:16:39.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

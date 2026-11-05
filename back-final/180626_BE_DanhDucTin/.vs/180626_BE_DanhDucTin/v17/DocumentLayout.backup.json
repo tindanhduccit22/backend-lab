@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\back-final\\180626_BE_DanhDucTin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\repository\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\repository\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|d:\\back-final\\180626_be_danhductin\\final\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2461F8-650B-4162-A970-95DA03D14671}|final\\final.csproj|solutionrelative:final\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "final\\Models\\UserRole.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\UserRole.cs",
+              "RelativeToolTip": "final\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:31:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "final\\Models\\Role.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\Role.cs",
+              "RelativeToolTip": "final\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:30:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\appsettings.json",
+              "RelativeDocumentMoniker": "final\\appsettings.json",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\appsettings.json",
+              "RelativeToolTip": "final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T02:14:53.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "final\\Controllers\\PetController.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Controllers\\PetController.cs*",
+              "RelativeToolTip": "final\\Controllers\\PetController.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:00:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Repository\\PetRepository.cs",
+              "RelativeDocumentMoniker": "final\\Repository\\PetRepository.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Repository\\PetRepository.cs",
+              "RelativeToolTip": "final\\Repository\\PetRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:51:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Program.cs",
+              "RelativeDocumentMoniker": "final\\Program.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Program.cs",
+              "RelativeToolTip": "final\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:45:37.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Repository\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "final\\Repository\\IPetRepository.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Repository\\IPetRepository.cs",
+              "RelativeToolTip": "final\\Repository\\IPetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:45:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PetCategory.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\PetCategory.cs",
+              "RelativeDocumentMoniker": "final\\Models\\PetCategory.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\PetCategory.cs",
+              "RelativeToolTip": "final\\Models\\PetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:43:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\User.cs",
+              "RelativeDocumentMoniker": "final\\Models\\User.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\User.cs",
+              "RelativeToolTip": "final\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:41:14.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "final\\Models\\Pet.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Models\\Pet.cs",
+              "RelativeToolTip": "final\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:40:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "final\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\back-final\\180626_BE_DanhDucTin\\final\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "final\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:39:33.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

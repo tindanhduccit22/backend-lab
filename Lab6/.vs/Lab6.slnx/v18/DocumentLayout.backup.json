@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|d:\\backend\\lab6\\lab6\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAE5CB-7A0A-43B0-A052-1F50A2470EA3}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:23:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Lab6\\wwwroot\\index.html",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\wwwroot\\index.html",
+              "RelativeToolTip": "Lab6\\wwwroot\\index.html",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAqwOEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-12T04:14:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:11:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Lab6\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Lab6\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAywFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:08:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab6\\appsettings.json",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\appsettings.json",
+              "RelativeToolTip": "Lab6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T04:04:06.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6\\Program.cs",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Lab6\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:03:39.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab6\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lab6\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:03:20.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\backend\\Lab6\\Lab6\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\Message.cs",
+              "ToolTip": "D:\\backend\\Lab6\\Lab6\\Models\\Message.cs",
+              "RelativeToolTip": "Lab6\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:03:07.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

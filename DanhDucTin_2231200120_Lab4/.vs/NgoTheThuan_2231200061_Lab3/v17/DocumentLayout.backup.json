@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0253-56BB-4AD0-9382-2DE98DB8DB50}|NgoTheThuan_2231200061_Lab3.csproj|d:\\quarter_3\\backend\\lab\\ngothethuan_2231200061_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0253-56BB-4AD0-9382-2DE98DB8DB50}|NgoTheThuan_2231200061_Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0253-56BB-4AD0-9382-2DE98DB8DB50}|NgoTheThuan_2231200061_Lab3.csproj|d:\\quarter_3\\backend\\lab\\ngothethuan_2231200061_lab3\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0253-56BB-4AD0-9382-2DE98DB8DB50}|NgoTheThuan_2231200061_Lab3.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0253-56BB-4AD0-9382-2DE98DB8DB50}|NgoTheThuan_2231200061_Lab3.csproj|d:\\quarter_3\\backend\\lab\\ngothethuan_2231200061_lab3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0253-56BB-4AD0-9382-2DE98DB8DB50}|NgoTheThuan_2231200061_Lab3.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:49:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T05:08:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Quarter_3\\BACKEND\\LAB\\NgoTheThuan_2231200061_Lab3\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "Controllers\\BooksController.cs*",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAYwA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:56:22.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

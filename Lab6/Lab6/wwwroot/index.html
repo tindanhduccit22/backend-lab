@@ -1,0 +1,226 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lab6 Chat Application</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 30px;
+        }
+
+        input {
+            padding: 8px;
+            margin: 5px;
+            width: 250px;
+        }
+
+        button {
+            padding: 8px 12px;
+            margin: 5px;
+        }
+
+        #messagesList {
+            margin-top: 20px;
+            border: 1px solid gray;
+            min-height: 300px;
+            width: 800px;
+            padding: 10px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>SignalR Chat Application</h1>
+
+    <p>
+        <b>Connection ID:</b>
+        <span id="connectionId"></span>
+    </p>
+
+    <hr>
+
+    <h3>Broadcast Chat</h3>
+
+    <input id="userInput" placeholder="Username" />
+    <input id="messageInput" placeholder="Message" />
+
+    <button onclick="sendMessage()">
+        Send
+    </button>
+
+    <hr>
+
+    <h3>Group Chat</h3>
+
+    <input id="roomInput" placeholder="Room Name" />
+
+    <button onclick="joinRoom()">
+        Join Room
+    </button>
+
+    <button onclick="leaveRoom()">
+        Leave Room
+    </button>
+
+    <button onclick="sendGroupMessage()">
+        Send Group
+    </button>
+
+    <hr>
+
+    <h3>Private Chat</h3>
+
+    <input id="receiverInput"
+           placeholder="Receiver Connection ID" />
+
+    <button onclick="sendPrivateMessage()">
+        Send Private
+    </button>
+
+    <hr>
+
+    <ul id="messagesList"></ul>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+
+    <script>
+
+        const connection =
+            new signalR.HubConnectionBuilder()
+                .withUrl("/chathub")
+                .build();
+
+        connection.on("ReceiveMessage", function (user, message) {
+
+            const li =
+                document.createElement("li");
+
+            li.textContent =
+                user + " : " + message;
+
+            document
+                .getElementById("messagesList")
+                .appendChild(li);
+        });
+
+        connection.on("ReceiveConnectionId",
+            function (id) {
+
+                document
+                    .getElementById("connectionId")
+                    .innerText = id;
+            });
+
+        connection.start()
+            .then(() => console.log("Connected"))
+            .catch(err => console.error(err));
+
+        function sendMessage() {
+
+            let user =
+                document.getElementById("userInput").value;
+
+            let message =
+                document.getElementById("messageInput").value;
+
+            connection.invoke(
+                "SendMessage",
+                user,
+                message);
+        }
+
+        function joinRoom() {
+
+            let room =
+                document.getElementById("roomInput").value;
+
+            let user =
+                document.getElementById("userInput").value;
+
+            connection.invoke(
+                "JoinRoom",
+                room,
+                user);
+        }
+
+        function leaveRoom() {
+
+            let room =
+                document.getElementById("roomInput").value;
+
+            let user =
+                document.getElementById("userInput").value;
+
+            connection.invoke(
+                "LeaveRoom",
+                room,
+                user);
+        }
+
+        function sendGroupMessage() {
+
+            let room =
+                document.getElementById("roomInput").value;
+
+            let user =
+                document.getElementById("userInput").value;
+
+            let message =
+                document.getElementById("messageInput").value;
+
+            connection.invoke(
+                "SendGroupMessage",
+                room,
+                user,
+                message);
+        }
+
+        function sendPrivateMessage() {
+
+            let receiver =
+                document.getElementById("receiverInput").value;
+
+            let user =
+                document.getElementById("userInput").value;
+
+            let message =
+                document.getElementById("messageInput").value;
+
+            connection.invoke(
+                "SendPrivateMessage",
+                receiver,
+                user,
+                message);
+        }
+
+        fetch("/api/Chat/history")
+            .then(res => res.json())
+            .then(data => {
+
+                data.forEach(m => {
+
+                    const li =
+                        document.createElement("li");
+
+                    li.textContent =
+                        m.senderName +
+                        " : " +
+                        m.messageBody;
+
+                    document
+                        .getElementById("messagesList")
+                        .appendChild(li);
+                });
+            });
+
+    </script>
+
+</body>
+</html>
